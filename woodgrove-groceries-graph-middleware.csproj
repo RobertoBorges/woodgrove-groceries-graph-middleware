@@ -5,6 +5,7 @@
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <RootNamespace>woodgrove_groceries_graph_middleware</RootNamespace>
+    <UserSecretsId>4db4b6b5-7d57-4320-9c91-481da60065a9</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
